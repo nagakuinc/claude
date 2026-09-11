@@ -1,0 +1,8 @@
+{
+  "name": "nagaku",
+  "description": "How this organization commits, opens pull requests and files issues, on any of its repositories.",
+  "version": "0.1.0",
+  "author": {
+    "name": "nagaku inc."
+  }
+}

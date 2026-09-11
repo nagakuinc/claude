@@ -1,0 +1,14 @@
+{
+  "name": "nagakuinc",
+  "description": "Claude Code plugins for working on nagakuinc: skills for committing, opening pull requests and filing issues.",
+  "owner": {
+    "name": "NAGAKU Inc."
+  },
+  "plugins": [
+    {
+      "name": "nagaku",
+      "source": "./plugins/nagaku",
+      "description": "How this organization commits, opens pull requests and files issues, on any of its repositories."
+    }
+  ]
+}
